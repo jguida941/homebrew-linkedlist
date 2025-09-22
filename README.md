@@ -70,10 +70,11 @@ ed
 # Why Homebrew?
 
 I wanted to take it a step further and learn real-world software distribution:
-	•	Packaged my program as a Homebrew formula (like professional CLI tools).
-	•	Verified it installs with a single command on macOS.
-	•	Published a working tap that anyone can add with brew tap.
-	•	Demonstrated how to share academic projects as if they were production software.
+
+	• Packaged my program as a Homebrew formula (like professional CLI tools).
+	• Verified it installs with a single command on macOS.
+	• Published a working tap that anyone can add with brew tap.
+	• Demonstrated how to share academic projects as if they were production software.
 
 
 # More
