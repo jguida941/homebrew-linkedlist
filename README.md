@@ -27,6 +27,13 @@ Run the app with sample data:
 linked-list "$(brew --prefix)/share/linked-list/eBid_Monthly_Sales.csv" 98109
 ```
 
+# Terminal Demo and Installation GIF
+
+
+https://github.com/user-attachments/assets/8b7aceca-34a1-45b3-a341-d755fb9cd6e7
+
+
+
 
 ## Example Output
 ```
