@@ -29,9 +29,7 @@ linked-list "$(brew --prefix)/share/linked-list/eBid_Monthly_Sales.csv" 98109
 
 # Terminal Demo and Installation GIF
 
-
-https://github.com/user-attachments/assets/8b7aceca-34a1-45b3-a341-d755fb9cd6e7
-
+https://github.com/user-attachments/assets/77b2cf41-450f-4271-94c3-d147f3932d97
 
 
 
@@ -58,17 +56,16 @@ ID: 95607    | Title: 2004 Ford F-750 Aspha... | Fund:                      | Am
 
 <br>
 
-# Installation using HomeBrew!
+# Installation Using Homebrew and Demo:
 
-<img width="889" height="929" alt="Screenshot 2025-09-22 at 12 09 35 AM" src="https://github.com/user-attachments/assets/5f299f63-c445-4fb2-bc52-e434ebbd1920" />
-ed
+
 
 
 <br>
 
 # Running the Program!
 
-<img width="892" height="745" alt="Screenshot 2025-09-22 at 12 12 09 AM" src="https://github.com/user-attachments/assets/ddaf759c-3144-402d-b242-9a1299bc7f04" />
+<img width="798" height="889" alt="Screenshot 2025-12-07 at 10 44 00 AM" src="https://github.com/user-attachments/assets/345b82ed-cf0d-42a5-9cba-fd30dc870e5e" />
 
 
 <br>
