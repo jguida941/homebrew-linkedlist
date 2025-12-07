@@ -12,7 +12,7 @@ The purpose of this project was to show how a C++ program can be distributed and
 
 ## Installation and Demo GIF
 
-https://github.com/user-attachments/assets/d6c15e1e-eb41-4555-8c6a-c74cfe5b4aa2
+![Linked List demo](https://github.com/user-attachments/assets/d6c15e1e-eb41-4555-8c6a-c74cfe5b4aa2)
 
   
 ## Installation
