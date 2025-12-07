@@ -9,8 +9,13 @@ The purpose of this project was to show how a C++ program can be distributed and
 - Built a **backend module in C++** with clean APIs for adding, searching, and removing bids.  
 - Connected the backend logic to a **Homebrew formula**, enabling installation and execution as a professional CLI tool.  
 - Practiced real-world **software distribution, packaging, and DevOps** skills, on top of sharpening **C++ development**.
+
+## Installation and Demo GIF
+
+https://github.com/user-attachments/assets/d6c15e1e-eb41-4555-8c6a-c74cfe5b4aa2
+
   
-# Installation
+## Installation
 
 Add the tap and install:
 
@@ -25,36 +30,36 @@ Run the app with sample data:
 linked-list "$(brew --prefix)/share/linked-list/eBid_Monthly_Sales.csv" 98109
 ```
 
-# Terminal Demo and Installation GIF
-
-https://github.com/user-attachments/assets/77b2cf41-450f-4271-94c3-d147f3932d97
-
-## Example Output
+### Example Output
 ```
-========================================
-                MENU
-========================================
-  1. Enter a Bid
-  2. Load Bids
-  3. Display All Bids
-  4. Find Bid
-  5. Remove Bid
-  9. Exit
-========================================
+┌────────────────────────┐
+│       BID SYSTEM       │
+├────────────────────────┤
+│ [1] Enter Bid          │
+│ [2] Load Bids          │
+│ [3] Show All           │
+│ [4] Find Bid           │
+│ [5] Remove Bid         │
+├────────────────────────┤
+│ [9] Exit               │
+└────────────────────────┘
+
 ```
 
-## Example entries:
+### Example entries:
+```
+ID: 82620    | Title: "Vacant Industrial Re... | Fund: General Fund         | Amount: $      0.00
+ID: 82621    | Title: "Vacant Industrial Re... | Fund: General Fund         | Amount: $      0.00
+ID: 92549    | Title: "349 21st Avenue Nort... | Fund: General Fund         | Amount: $      0.00
+ID: 82027    | Title: "Commercial Building ... | Fund: General Fund         | Amount: $      0.00
+
 ```
 
-ID: 92150    | Title: 1989 Ford F-450 Dump ... | Fund: Enterprise           | Amount: $      0.00
-ID: 95607    | Title: 2004 Ford F-750 Aspha... | Fund:                      | Amount: $      0.00
-```
-
-# Running the Program
+## Running the Program
 
 <img width="377" height="613" alt="Screenshot 2025-12-07 at 10 51 03 AM" src="https://github.com/user-attachments/assets/9d699a16-b35d-4f70-b8c4-fa70ecebff16" />
 
-# Theme Support
+## Theme Support
 
 The program auto-detects your terminal theme (dark/light). To force a specific theme, set the `COLOR_THEME` environment variable:
 
@@ -64,7 +69,7 @@ export COLOR_THEME=light  # for light terminals
 export COLOR_THEME=mono   # for no colors
 ```
 
-# Why Homebrew?
+## Why Homebrew?
 
 I wanted to take it a step further and learn real-world software distribution:
 
