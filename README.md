@@ -65,7 +65,7 @@ ID: 95607    | Title: 2004 Ford F-750 Aspha... | Fund:                      | Am
 
 # Running the Program!
 
-<img width="798" height="889" alt="Screenshot 2025-12-07 at 10 44 00 AM" src="https://github.com/user-attachments/assets/345b82ed-cf0d-42a5-9cba-fd30dc870e5e" />
+<img width="377" height="613" alt="Screenshot 2025-12-07 at 10 51 03 AM" src="https://github.com/user-attachments/assets/9d699a16-b35d-4f70-b8c4-fa70ecebff16" />
 
 
 <br>
