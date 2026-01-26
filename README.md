@@ -57,7 +57,7 @@ ID: 82027    | Title: "Commercial Building ... | Fund: General Fund         | Am
 
 ## Running the Program
 
-<img width="377" height="613" alt="Screenshot 2025-12-07 at 10 51 03 AM" src="https://github.com/user-attachments/assets/9d699a16-b35d-4f70-b8c4-fa70ecebff16" />
+<img width="377" height="613" alt="Bid System Terminal Interface" src="https://github.com/user-attachments/assets/9d699a16-b35d-4f70-b8c4-fa70ecebff16" />
 
 ## Theme Support
 
